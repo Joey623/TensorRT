@@ -21,7 +21,12 @@ TensorRT quick start, implemented by autodl.
 
 
 
-## Test Thourghout and Latency
+## Test Throughout and Latency
 
 run the `main.py`.
 
+
+
+## Acknowledgement
+
+Many thanks to ([PriceYH (HaoYu)](https://github.com/PriceYH)) for his help!
